@@ -1,0 +1,6 @@
+coincurve==15.0.1
+rich==10.9.0
+base58==2.1.0
+cupy-cuda12x
+numba
+numpy
